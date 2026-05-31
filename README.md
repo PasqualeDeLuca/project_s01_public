@@ -1,2 +1,3 @@
 # game-dev-portfolio
-Game development portfolio – Unity projects, gameplay systems and prototypes
+
+Progetti come project_000 e project_001 sono videogiochi sviluppati con l'intendo di essere commercializzati.
